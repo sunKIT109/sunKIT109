@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunKIT109
 - 👀 I’m interested in Chess and HTML
-- 🌱 I’m currently making minor HTML projects
+- 🌱 I’m currently making minor HTML projects and learning C and C++
 - 💞️ I’m looking to collaborate on some stuff someday
 - 📫 How to reach me: Someway
 - 😄 Pronouns: She/Her
